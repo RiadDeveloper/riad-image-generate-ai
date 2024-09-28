@@ -1,0 +1,23 @@
+# Node modules directory
+node_modules/
+
+# Don't ignore the dist directory
+!dist/
+
+# Source files (if you don't want to track them)
+src/
+
+# Ignore npm debug log files
+npm-debug.log*
+
+# Ignore environment variables files
+.env
+
+# Ignore the package.json file
+package.json
+
+# Ignore the package-lock.json file
+package-lock.json
+
+# Ignore any other directory or files you want to exclude
+.idx/
