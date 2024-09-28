@@ -21,3 +21,7 @@ package-lock.json
 
 # Ignore any other directory or files you want to exclude
 .idx/
+
+.npmignore
+
+.npmignore
